@@ -1,0 +1,42 @@
+{
+  "name": "metadata-service",
+  "version": "1.0.0",
+  "description": "Metadata service using Nest.js",
+  "main": "dist/src/main.js",
+  "scripts": {
+    "build": "nest build",
+    "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
+    "start": "nest start",
+    "start:dev": "nest start --watch",
+    "start:debug": "nest start --debug --watch",
+    "start:prod": "bun run dist/src/main",
+    "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^8.4.7",
+    "@nestjs/core": "^8.4.7",
+    "@nestjs/platform-express": "^8.4.7",
+    "dotenv": "^16.4.5",
+    "reflect-metadata": "^0.1.14",
+    "rxjs": "^7.8.1"
+  },
+  "devDependencies": {
+    "@nestjs/cli": "^10.4.5",
+    "@types/bun": "^1.1.12",
+    "@types/express": "^4.17.21",
+    "@types/node": "^16.18.115",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "csv-parser": "^3.0.0",
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "ethers": "^6.13.4",
+    "prettier": "^2.3.2",
+    "typescript": "^4.9.5",
+    "yargs": "^17.7.2"
+  }
+}

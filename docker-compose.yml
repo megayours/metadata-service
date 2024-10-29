@@ -1,0 +1,9 @@
+version: '3'
+services:
+  app:
+    build: .
+    ports:
+      - "50000:50000"
+    volumes:
+      - ./config:/app/config
+      - ./metadata:/app/metadata
