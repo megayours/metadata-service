@@ -1,0 +1,802 @@
+{
+  "0": {
+    "name": "Iron Helm",
+    "slot": "helm",
+    "defense": 12,
+    "weight": 3,
+    "rarity": "common",
+    "description": "Basic metal helmet"
+  },
+  "1": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "2": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "3": {
+    "name": "Horned Helm",
+    "slot": "helm",
+    "defense": 18,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Decorated battle helm"
+  },
+  "4": {
+    "name": "Horned Helm",
+    "slot": "helm",
+    "defense": 18,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Decorated battle helm"
+  },
+  "5": {
+    "name": "Iron Helm",
+    "slot": "helm",
+    "defense": 12,
+    "weight": 3,
+    "rarity": "common",
+    "description": "Basic metal helmet"
+  },
+  "6": {
+    "name": "Chain Mail",
+    "slot": "chest",
+    "defense": 25,
+    "weight": 15,
+    "rarity": "uncommon",
+    "description": "Flexible ring armor"
+  },
+  "7": {
+    "name": "Mage's Gloves",
+    "slot": "hands",
+    "defense": 15,
+    "weight": 1.5,
+    "rarity": "rare",
+    "description": "Enchanted lightweight gauntlets"
+  },
+  "8": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "9": {
+    "name": "Longsword",
+    "slot": "weapon",
+    "damage": 25,
+    "weight": 3.5,
+    "rarity": "common",
+    "description": "A balanced one-handed sword"
+  },
+  "10": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "11": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "12": {
+    "name": "Mage's Gloves",
+    "slot": "hands",
+    "defense": 15,
+    "weight": 1.5,
+    "rarity": "rare",
+    "description": "Enchanted lightweight gauntlets"
+  },
+  "13": {
+    "name": "Chain Mail",
+    "slot": "chest",
+    "defense": 25,
+    "weight": 15,
+    "rarity": "uncommon",
+    "description": "Flexible ring armor"
+  },
+  "14": {
+    "name": "Iron Helm",
+    "slot": "helm",
+    "defense": 12,
+    "weight": 3,
+    "rarity": "common",
+    "description": "Basic metal helmet"
+  },
+  "15": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "16": {
+    "name": "Plated Boots",
+    "slot": "boots",
+    "defense": 15,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Metal-reinforced boots"
+  },
+  "17": {
+    "name": "Longsword",
+    "slot": "weapon",
+    "damage": 25,
+    "weight": 3.5,
+    "rarity": "common",
+    "description": "A balanced one-handed sword"
+  },
+  "18": {
+    "name": "Dagger",
+    "slot": "weapon",
+    "damage": 15,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Quick and light blade"
+  },
+  "19": {
+    "name": "Dragon Scale",
+    "slot": "chest",
+    "defense": 35,
+    "weight": 18,
+    "rarity": "rare",
+    "description": "Exotic scale armor"
+  },
+  "20": {
+    "name": "Dagger",
+    "slot": "weapon",
+    "damage": 15,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Quick and light blade"
+  },
+  "21": {
+    "name": "Dragon Scale",
+    "slot": "chest",
+    "defense": 35,
+    "weight": 18,
+    "rarity": "rare",
+    "description": "Exotic scale armor"
+  },
+  "22": {
+    "name": "Iron Gauntlets",
+    "slot": "hands",
+    "defense": 12,
+    "weight": 2.5,
+    "rarity": "uncommon",
+    "description": "Metal hand armor"
+  },
+  "23": {
+    "name": "Plated Boots",
+    "slot": "boots",
+    "defense": 15,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Metal-reinforced boots"
+  },
+  "24": {
+    "name": "Leather Chest",
+    "slot": "chest",
+    "defense": 15,
+    "weight": 8,
+    "rarity": "common",
+    "description": "Light leather armor"
+  },
+  "25": {
+    "name": "Crystal Crown",
+    "slot": "helm",
+    "defense": 25,
+    "weight": 5,
+    "rarity": "rare",
+    "description": "Magical crystalline headpiece"
+  },
+  "26": {
+    "name": "Longsword",
+    "slot": "weapon",
+    "damage": 25,
+    "weight": 3.5,
+    "rarity": "common",
+    "description": "A balanced one-handed sword"
+  },
+  "27": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "28": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "29": {
+    "name": "Iron Helm",
+    "slot": "helm",
+    "defense": 12,
+    "weight": 3,
+    "rarity": "common",
+    "description": "Basic metal helmet"
+  },
+  "30": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "31": {
+    "name": "War Hammer",
+    "slot": "weapon",
+    "damage": 40,
+    "weight": 6,
+    "rarity": "rare",
+    "description": "Heavy crushing weapon"
+  },
+  "32": {
+    "name": "Steel Greaves",
+    "slot": "legs",
+    "defense": 20,
+    "weight": 8,
+    "rarity": "uncommon",
+    "description": "Heavy leg armor"
+  },
+  "33": {
+    "name": "Leather Legs",
+    "slot": "legs",
+    "defense": 12,
+    "weight": 4,
+    "rarity": "common",
+    "description": "Basic leg protection"
+  },
+  "34": {
+    "name": "Steel Greaves",
+    "slot": "legs",
+    "defense": 20,
+    "weight": 8,
+    "rarity": "uncommon",
+    "description": "Heavy leg armor"
+  },
+  "35": {
+    "name": "Dagger",
+    "slot": "weapon",
+    "damage": 15,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Quick and light blade"
+  },
+  "36": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "37": {
+    "name": "Dagger",
+    "slot": "weapon",
+    "damage": 15,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Quick and light blade"
+  },
+  "38": {
+    "name": "Iron Gauntlets",
+    "slot": "hands",
+    "defense": 12,
+    "weight": 2.5,
+    "rarity": "uncommon",
+    "description": "Metal hand armor"
+  },
+  "39": {
+    "name": "Dragon Scale",
+    "slot": "chest",
+    "defense": 35,
+    "weight": 18,
+    "rarity": "rare",
+    "description": "Exotic scale armor"
+  },
+  "40": {
+    "name": "Iron Helm",
+    "slot": "helm",
+    "defense": 12,
+    "weight": 3,
+    "rarity": "common",
+    "description": "Basic metal helmet"
+  },
+  "41": {
+    "name": "Dagger",
+    "slot": "weapon",
+    "damage": 15,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Quick and light blade"
+  },
+  "42": {
+    "name": "Swift Boots",
+    "slot": "boots",
+    "defense": 20,
+    "weight": 3,
+    "rarity": "rare",
+    "description": "Enchanted lightweight boots"
+  },
+  "43": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "44": {
+    "name": "Leather Chest",
+    "slot": "chest",
+    "defense": 15,
+    "weight": 8,
+    "rarity": "common",
+    "description": "Light leather armor"
+  },
+  "45": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "46": {
+    "name": "Battle Axe",
+    "slot": "weapon",
+    "damage": 35,
+    "weight": 5,
+    "rarity": "uncommon",
+    "description": "Heavy but powerful two-handed axe"
+  },
+  "47": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "48": {
+    "name": "Iron Helm",
+    "slot": "helm",
+    "defense": 12,
+    "weight": 3,
+    "rarity": "common",
+    "description": "Basic metal helmet"
+  },
+  "49": {
+    "name": "Iron Helm",
+    "slot": "helm",
+    "defense": 12,
+    "weight": 3,
+    "rarity": "common",
+    "description": "Basic metal helmet"
+  },
+  "50": {
+    "name": "Greatsword",
+    "slot": "weapon",
+    "damage": 45,
+    "weight": 7,
+    "rarity": "rare",
+    "description": "Massive two-handed sword"
+  },
+  "51": {
+    "name": "Leather Chest",
+    "slot": "chest",
+    "defense": 15,
+    "weight": 8,
+    "rarity": "common",
+    "description": "Light leather armor"
+  },
+  "52": {
+    "name": "Chain Mail",
+    "slot": "chest",
+    "defense": 25,
+    "weight": 15,
+    "rarity": "uncommon",
+    "description": "Flexible ring armor"
+  },
+  "53": {
+    "name": "Battle Axe",
+    "slot": "weapon",
+    "damage": 35,
+    "weight": 5,
+    "rarity": "uncommon",
+    "description": "Heavy but powerful two-handed axe"
+  },
+  "54": {
+    "name": "Plated Boots",
+    "slot": "boots",
+    "defense": 15,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Metal-reinforced boots"
+  },
+  "55": {
+    "name": "Leather Chest",
+    "slot": "chest",
+    "defense": 15,
+    "weight": 8,
+    "rarity": "common",
+    "description": "Light leather armor"
+  },
+  "56": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "57": {
+    "name": "Longsword",
+    "slot": "weapon",
+    "damage": 25,
+    "weight": 3.5,
+    "rarity": "common",
+    "description": "A balanced one-handed sword"
+  },
+  "58": {
+    "name": "Iron Gauntlets",
+    "slot": "hands",
+    "defense": 12,
+    "weight": 2.5,
+    "rarity": "uncommon",
+    "description": "Metal hand armor"
+  },
+  "59": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "60": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "61": {
+    "name": "Greatsword",
+    "slot": "weapon",
+    "damage": 45,
+    "weight": 7,
+    "rarity": "rare",
+    "description": "Massive two-handed sword"
+  },
+  "62": {
+    "name": "Battle Axe",
+    "slot": "weapon",
+    "damage": 35,
+    "weight": 5,
+    "rarity": "uncommon",
+    "description": "Heavy but powerful two-handed axe"
+  },
+  "63": {
+    "name": "Iron Helm",
+    "slot": "helm",
+    "defense": 12,
+    "weight": 3,
+    "rarity": "common",
+    "description": "Basic metal helmet"
+  },
+  "64": {
+    "name": "Chain Mail",
+    "slot": "chest",
+    "defense": 25,
+    "weight": 15,
+    "rarity": "uncommon",
+    "description": "Flexible ring armor"
+  },
+  "65": {
+    "name": "Leather Legs",
+    "slot": "legs",
+    "defense": 12,
+    "weight": 4,
+    "rarity": "common",
+    "description": "Basic leg protection"
+  },
+  "66": {
+    "name": "Iron Gauntlets",
+    "slot": "hands",
+    "defense": 12,
+    "weight": 2.5,
+    "rarity": "uncommon",
+    "description": "Metal hand armor"
+  },
+  "67": {
+    "name": "Leather Legs",
+    "slot": "legs",
+    "defense": 12,
+    "weight": 4,
+    "rarity": "common",
+    "description": "Basic leg protection"
+  },
+  "68": {
+    "name": "Crystal Crown",
+    "slot": "helm",
+    "defense": 25,
+    "weight": 5,
+    "rarity": "rare",
+    "description": "Magical crystalline headpiece"
+  },
+  "69": {
+    "name": "Plated Boots",
+    "slot": "boots",
+    "defense": 15,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Metal-reinforced boots"
+  },
+  "70": {
+    "name": "War Hammer",
+    "slot": "weapon",
+    "damage": 40,
+    "weight": 6,
+    "rarity": "rare",
+    "description": "Heavy crushing weapon"
+  },
+  "71": {
+    "name": "Dagger",
+    "slot": "weapon",
+    "damage": 15,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Quick and light blade"
+  },
+  "72": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "73": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "74": {
+    "name": "Iron Helm",
+    "slot": "helm",
+    "defense": 12,
+    "weight": 3,
+    "rarity": "common",
+    "description": "Basic metal helmet"
+  },
+  "75": {
+    "name": "Leather Legs",
+    "slot": "legs",
+    "defense": 12,
+    "weight": 4,
+    "rarity": "common",
+    "description": "Basic leg protection"
+  },
+  "76": {
+    "name": "Leather Chest",
+    "slot": "chest",
+    "defense": 15,
+    "weight": 8,
+    "rarity": "common",
+    "description": "Light leather armor"
+  },
+  "77": {
+    "name": "Horned Helm",
+    "slot": "helm",
+    "defense": 18,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Decorated battle helm"
+  },
+  "78": {
+    "name": "Dragon Scale",
+    "slot": "chest",
+    "defense": 35,
+    "weight": 18,
+    "rarity": "rare",
+    "description": "Exotic scale armor"
+  },
+  "79": {
+    "name": "Horned Helm",
+    "slot": "helm",
+    "defense": 18,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Decorated battle helm"
+  },
+  "80": {
+    "name": "Horned Helm",
+    "slot": "helm",
+    "defense": 18,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Decorated battle helm"
+  },
+  "81": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "82": {
+    "name": "Battle Axe",
+    "slot": "weapon",
+    "damage": 35,
+    "weight": 5,
+    "rarity": "uncommon",
+    "description": "Heavy but powerful two-handed axe"
+  },
+  "83": {
+    "name": "Dagger",
+    "slot": "weapon",
+    "damage": 15,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Quick and light blade"
+  },
+  "84": {
+    "name": "Horned Helm",
+    "slot": "helm",
+    "defense": 18,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Decorated battle helm"
+  },
+  "85": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "86": {
+    "name": "Mage's Gloves",
+    "slot": "hands",
+    "defense": 15,
+    "weight": 1.5,
+    "rarity": "rare",
+    "description": "Enchanted lightweight gauntlets"
+  },
+  "87": {
+    "name": "Dagger",
+    "slot": "weapon",
+    "damage": 15,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Quick and light blade"
+  },
+  "88": {
+    "name": "Battle Axe",
+    "slot": "weapon",
+    "damage": 35,
+    "weight": 5,
+    "rarity": "uncommon",
+    "description": "Heavy but powerful two-handed axe"
+  },
+  "89": {
+    "name": "Greatsword",
+    "slot": "weapon",
+    "damage": 45,
+    "weight": 7,
+    "rarity": "rare",
+    "description": "Massive two-handed sword"
+  },
+  "90": {
+    "name": "Chain Mail",
+    "slot": "chest",
+    "defense": 25,
+    "weight": 15,
+    "rarity": "uncommon",
+    "description": "Flexible ring armor"
+  },
+  "91": {
+    "name": "Chain Mail",
+    "slot": "chest",
+    "defense": 25,
+    "weight": 15,
+    "rarity": "uncommon",
+    "description": "Flexible ring armor"
+  },
+  "92": {
+    "name": "Leather Boots",
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2,
+    "rarity": "common",
+    "description": "Light leather footwear"
+  },
+  "93": {
+    "name": "Battle Axe",
+    "slot": "weapon",
+    "damage": 35,
+    "weight": 5,
+    "rarity": "uncommon",
+    "description": "Heavy but powerful two-handed axe"
+  },
+  "94": {
+    "name": "Battle Axe",
+    "slot": "weapon",
+    "damage": 35,
+    "weight": 5,
+    "rarity": "uncommon",
+    "description": "Heavy but powerful two-handed axe"
+  },
+  "95": {
+    "name": "Leather Gloves",
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1,
+    "rarity": "common",
+    "description": "Basic hand protection"
+  },
+  "96": {
+    "name": "Chain Mail",
+    "slot": "chest",
+    "defense": 25,
+    "weight": 15,
+    "rarity": "uncommon",
+    "description": "Flexible ring armor"
+  },
+  "97": {
+    "name": "Crystal Crown",
+    "slot": "helm",
+    "defense": 25,
+    "weight": 5,
+    "rarity": "rare",
+    "description": "Magical crystalline headpiece"
+  },
+  "98": {
+    "name": "Horned Helm",
+    "slot": "helm",
+    "defense": 18,
+    "weight": 4,
+    "rarity": "uncommon",
+    "description": "Decorated battle helm"
+  },
+  "99": {
+    "name": "Battle Axe",
+    "slot": "weapon",
+    "damage": 35,
+    "weight": 5,
+    "rarity": "uncommon",
+    "description": "Heavy but powerful two-handed axe"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "Longsword": {
+    "slot": "weapon",
+    "damage": 25,
+    "weight": 3.5,
+    "rarity": "common",
+    "dropRate": 20,
+    "description": "A balanced one-handed sword"
+  },
+  "Battle Axe": {
+    "slot": "weapon",
+    "damage": 35,
+    "weight": 5.0,
+    "rarity": "uncommon",
+    "dropRate": 15,
+    "description": "Heavy but powerful two-handed axe"
+  },
+  "Greatsword": {
+    "slot": "weapon",
+    "damage": 45,
+    "weight": 7.0,
+    "rarity": "rare",
+    "dropRate": 5,
+    "description": "Massive two-handed sword"
+  },
+  "Dagger": {
+    "slot": "weapon",
+    "damage": 15,
+    "weight": 1.0,
+    "rarity": "common",
+    "dropRate": 20,
+    "description": "Quick and light blade"
+  },
+  "War Hammer": {
+    "slot": "weapon",
+    "damage": 40,
+    "weight": 6.0,
+    "rarity": "rare",
+    "dropRate": 5,
+    "description": "Heavy crushing weapon"
+  },
+  "Leather Chest": {
+    "slot": "chest",
+    "defense": 15,
+    "weight": 8.0,
+    "rarity": "common",
+    "dropRate": 20,
+    "description": "Light leather armor"
+  },
+  "Chain Mail": {
+    "slot": "chest",
+    "defense": 25,
+    "weight": 15.0,
+    "rarity": "uncommon",
+    "dropRate": 15,
+    "description": "Flexible ring armor"
+  },
+  "Dragon Scale": {
+    "slot": "chest",
+    "defense": 35,
+    "weight": 18.0,
+    "rarity": "rare",
+    "dropRate": 5,
+    "description": "Exotic scale armor"
+  },
+  "Iron head": {
+    "slot": "head",
+    "defense": 12,
+    "weight": 3.0,
+    "rarity": "common",
+    "dropRate": 20,
+    "description": "Basic metal headet"
+  },
+  "Horned head": {
+    "slot": "head",
+    "defense": 18,
+    "weight": 4.0,
+    "rarity": "uncommon",
+    "dropRate": 15,
+    "description": "Decorated battle head"
+  },
+  "Crystal Crown": {
+    "slot": "head",
+    "defense": 25,
+    "weight": 5.0,
+    "rarity": "rare",
+    "dropRate": 5,
+    "description": "Magical crystalline headpiece"
+  },
+  "Leather Boots": {
+    "slot": "boots",
+    "defense": 8,
+    "weight": 2.0,
+    "rarity": "common",
+    "dropRate": 20,
+    "description": "Light leather footwear"
+  },
+  "Plated Boots": {
+    "slot": "boots",
+    "defense": 15,
+    "weight": 4.0,
+    "rarity": "uncommon",
+    "dropRate": 15,
+    "description": "Metal-reinforced boots"
+  },
+  "Swift Boots": {
+    "slot": "boots",
+    "defense": 20,
+    "weight": 3.0,
+    "rarity": "rare",
+    "dropRate": 5,
+    "description": "Enchanted lightweight boots"
+  },
+  "Leather Legs": {
+    "slot": "legs",
+    "defense": 12,
+    "weight": 4.0,
+    "rarity": "common",
+    "dropRate": 20,
+    "description": "Basic leg protection"
+  },
+  "Steel Greaves": {
+    "slot": "legs",
+    "defense": 20,
+    "weight": 8.0,
+    "rarity": "uncommon",
+    "dropRate": 15,
+    "description": "Heavy leg armor"
+  },
+  "Dragon Legs": {
+    "slot": "legs",
+    "defense": 28,
+    "weight": 6.0,
+    "rarity": "rare",
+    "dropRate": 5,
+    "description": "Lightweight dragon scale leggings"
+  },
+  "Leather Gloves": {
+    "slot": "hands",
+    "defense": 5,
+    "weight": 1.0,
+    "rarity": "common",
+    "dropRate": 20,
+    "description": "Basic hand protection"
+  },
+  "Iron Gauntlets": {
+    "slot": "hands",
+    "defense": 12,
+    "weight": 2.5,
+    "rarity": "uncommon",
+    "dropRate": 15,
+    "description": "Metal hand armor"
+  },
+  "Mage's Gloves": {
+    "slot": "hands",
+    "defense": 15,
+    "weight": 1.5,
+    "rarity": "rare",
+    "dropRate": 5,
+    "description": "Enchanted lightweight gauntlets"
+  }
+}
