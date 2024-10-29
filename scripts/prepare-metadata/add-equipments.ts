@@ -9,6 +9,7 @@ interface Equipment {
   rarity: string;
   dropRate: number;
   description: string;
+  image: string;
 }
 
 interface EquipmentTemplates {
@@ -71,11 +72,19 @@ function generateTokens(count: number, startIndex: number): Record<string, any> 
     const [itemName, itemData] = weightedRandom(slotItems);
     
     // Create a copy of itemData without the dropRate
-    const { dropRate, ...itemDataWithoutDropRate } = itemData;
+    const { dropRate, ...itemAttributes } = itemData;
     
     result[tokenId.toString()] = {
       name: itemName,
-      ...itemDataWithoutDropRate
+      description: itemAttributes.description,
+      image: itemAttributes.image,
+      attributes: {
+        slot: itemAttributes.slot,
+        ...(itemAttributes.damage && { damage: itemAttributes.damage }),
+        ...(itemAttributes.defense && { defense: itemAttributes.defense }),
+        weight: itemAttributes.weight,
+        rarity: itemAttributes.rarity
+      }
     };
   }
   
