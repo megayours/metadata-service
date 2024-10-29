@@ -5,7 +5,8 @@
     "weight": 3.5,
     "rarity": "common",
     "dropRate": 20,
-    "description": "A balanced one-handed sword"
+    "description": "A balanced one-handed sword",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Battle Axe": {
     "slot": "weapon",
@@ -13,7 +14,8 @@
     "weight": 5.0,
     "rarity": "uncommon",
     "dropRate": 15,
-    "description": "Heavy but powerful two-handed axe"
+    "description": "Heavy but powerful two-handed axe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Greatsword": {
     "slot": "weapon",
@@ -21,7 +23,8 @@
     "weight": 7.0,
     "rarity": "rare",
     "dropRate": 5,
-    "description": "Massive two-handed sword"
+    "description": "Massive two-handed sword",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Dagger": {
     "slot": "weapon",
@@ -29,7 +32,8 @@
     "weight": 1.0,
     "rarity": "common",
     "dropRate": 20,
-    "description": "Quick and light blade"
+    "description": "Quick and light blade",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "War Hammer": {
     "slot": "weapon",
@@ -37,7 +41,8 @@
     "weight": 6.0,
     "rarity": "rare",
     "dropRate": 5,
-    "description": "Heavy crushing weapon"
+    "description": "Heavy crushing weapon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Leather Chest": {
     "slot": "chest",
@@ -45,7 +50,8 @@
     "weight": 8.0,
     "rarity": "common",
     "dropRate": 20,
-    "description": "Light leather armor"
+    "description": "Light leather armor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Chain Mail": {
     "slot": "chest",
@@ -53,7 +59,8 @@
     "weight": 15.0,
     "rarity": "uncommon",
     "dropRate": 15,
-    "description": "Flexible ring armor"
+    "description": "Flexible ring armor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Dragon Scale": {
     "slot": "chest",
@@ -61,7 +68,8 @@
     "weight": 18.0,
     "rarity": "rare",
     "dropRate": 5,
-    "description": "Exotic scale armor"
+    "description": "Exotic scale armor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Iron head": {
     "slot": "head",
@@ -69,7 +77,8 @@
     "weight": 3.0,
     "rarity": "common",
     "dropRate": 20,
-    "description": "Basic metal headet"
+    "description": "Basic metal headet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Horned head": {
     "slot": "head",
@@ -77,7 +86,8 @@
     "weight": 4.0,
     "rarity": "uncommon",
     "dropRate": 15,
-    "description": "Decorated battle head"
+    "description": "Decorated battle head",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Crystal Crown": {
     "slot": "head",
@@ -85,31 +95,35 @@
     "weight": 5.0,
     "rarity": "rare",
     "dropRate": 5,
-    "description": "Magical crystalline headpiece"
+    "description": "Magical crystalline headpiece",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Leather Boots": {
-    "slot": "boots",
+    "slot": "feets",
     "defense": 8,
     "weight": 2.0,
     "rarity": "common",
     "dropRate": 20,
-    "description": "Light leather footwear"
+    "description": "Light leather footwear",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Plated Boots": {
-    "slot": "boots",
+    "slot": "feets",
     "defense": 15,
     "weight": 4.0,
     "rarity": "uncommon",
     "dropRate": 15,
-    "description": "Metal-reinforced boots"
+    "description": "Metal-reinforced feets",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Swift Boots": {
-    "slot": "boots",
+    "slot": "feets",
     "defense": 20,
     "weight": 3.0,
     "rarity": "rare",
     "dropRate": 5,
-    "description": "Enchanted lightweight boots"
+    "description": "Enchanted lightweight feets",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Leather Legs": {
     "slot": "legs",
@@ -117,7 +131,8 @@
     "weight": 4.0,
     "rarity": "common",
     "dropRate": 20,
-    "description": "Basic leg protection"
+    "description": "Basic leg protection",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Steel Greaves": {
     "slot": "legs",
@@ -125,7 +140,8 @@
     "weight": 8.0,
     "rarity": "uncommon",
     "dropRate": 15,
-    "description": "Heavy leg armor"
+    "description": "Heavy leg armor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Dragon Legs": {
     "slot": "legs",
@@ -133,7 +149,8 @@
     "weight": 6.0,
     "rarity": "rare",
     "dropRate": 5,
-    "description": "Lightweight dragon scale leggings"
+    "description": "Lightweight dragon scale leggings",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Leather Gloves": {
     "slot": "hands",
@@ -141,7 +158,8 @@
     "weight": 1.0,
     "rarity": "common",
     "dropRate": 20,
-    "description": "Basic hand protection"
+    "description": "Basic hand protection",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Iron Gauntlets": {
     "slot": "hands",
@@ -149,7 +167,8 @@
     "weight": 2.5,
     "rarity": "uncommon",
     "dropRate": 15,
-    "description": "Metal hand armor"
+    "description": "Metal hand armor",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   },
   "Mage's Gloves": {
     "slot": "hands",
@@ -157,6 +176,7 @@
     "weight": 1.5,
     "rarity": "rare",
     "dropRate": 5,
-    "description": "Enchanted lightweight gauntlets"
+    "description": "Enchanted lightweight gauntlets",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Icon-round-Question_mark.svg/1024px-Icon-round-Question_mark.svg.png"
   }
 }

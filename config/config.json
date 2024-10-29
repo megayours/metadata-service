@@ -2,5 +2,9 @@
   "TheIglooCompany/PudgyPenguins": {
     "project": "The Igloo Company",
     "collection": "Pudgy Penguins"
+  },
+  "MegaYours/Equipment": {
+    "project": "Mega Yours",
+    "collection": "Equipment"
   }
 }
