@@ -74,17 +74,41 @@ function generateTokens(count: number, startIndex: number): Record<string, any> 
     // Create a copy of itemData without the dropRate
     const { dropRate, ...itemAttributes } = itemData;
     
+    // Restructure attributes to match desired format
+    const attributes = [
+      {
+        trait_type: "slot",
+        value: itemAttributes.slot
+      },
+      {
+        trait_type: "rarity",
+        value: itemAttributes.rarity
+      },
+      {
+        trait_type: "weight",
+        value: itemAttributes.weight
+      }
+    ];
+
+    // Add optional attributes if they exist
+    if (itemAttributes.damage) {
+      attributes.push({
+        trait_type: "damage",
+        value: itemAttributes.damage
+      });
+    }
+    if (itemAttributes.defense) {
+      attributes.push({
+        trait_type: "defense",
+        value: itemAttributes.defense
+      });
+    }
+    
     result[tokenId.toString()] = {
       name: itemName,
       description: itemAttributes.description,
       image: itemAttributes.image,
-      attributes: {
-        slot: itemAttributes.slot,
-        ...(itemAttributes.damage && { damage: itemAttributes.damage }),
-        ...(itemAttributes.defense && { defense: itemAttributes.defense }),
-        weight: itemAttributes.weight,
-        rarity: itemAttributes.rarity
-      }
+      attributes: attributes
     };
   }
   
