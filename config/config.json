@@ -14,5 +14,9 @@
   "MegaYours/Equipment": {
     "project": "Mega Yours",
     "collection": "Equipment"
+  },
+  "TeamAzuki/Azuki": {
+    "project": "TeamAzuki",
+    "collection": "Azuki"
   }
 }
