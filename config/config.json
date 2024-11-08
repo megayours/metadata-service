@@ -1,7 +1,15 @@
 {
+  "AnimocaBrands/Mocaverse": {
+    "project": "Animoca Brands",
+    "collection": "Mocaverse"
+  },
   "TheIglooCompany/PudgyPenguins": {
     "project": "The Igloo Company",
     "collection": "Pudgy Penguins"
+  },
+  "TheIglooCompany/LilPudgys": {
+    "project": "The Igloo Company",
+    "collection": "Lil Pudgys"
   },
   "MegaYours/Equipment": {
     "project": "Mega Yours",
